@@ -1,14 +1,8 @@
-<style>
-  .center-align {
-    text-align: center;
-  }
-</style>
-
-<div class="center-align">
+<p align="center">
 <b> CGU School of Social Science, Policy & Evaluation CGU  <br>
 Department of Economic Sciences <br>
-Causal Modeling, Big Data and Machine Learning <br> Fall 2023 <br>
-</div>
+Causal Modeling, Big Data and Machine Learning <br> Fall 2023 
+</p>
 ## Contact Information
 ## Course Instructor: Greg DeAngelo 
 Office: <br>
