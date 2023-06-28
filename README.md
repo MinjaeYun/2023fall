@@ -1,6 +1,14 @@
+<style>
+  .center-align {
+    text-align: center;
+  }
+</style>
+
+<div class="center-align">
 <b> CGU School of Social Science, Policy & Evaluation CGU  <br>
 Department of Economic Sciences <br>
 Causal Modeling, Big Data and Machine Learning <br> Fall 2023 <br>
+</div>
 ## Contact Information
 ## Course Instructor: Greg DeAngelo 
 Office: <br>
@@ -35,7 +43,7 @@ Econometrics, probability and statistics, basic programming <br> <br>
 ## Student Learning Outcomes 
 By the end of this course, students will be able to:
 <ol>
-<li> Secure the system and replicability of data analysis through programming
+<li> Secure the system and replicability of data analysis through programming </li>
 <li> Implement machine learning algorithms </li>
 <li> Develop a causal identification strategy </li>
 <li> Identify the basic assumptions of causal inference as applied to machine learning </li>
@@ -50,53 +58,53 @@ to statistical learning with applications in Python. New York: springer, forthco
   
 For each week, a set of required problem sets are assigned. Supplementary readings are also provided for those who wish to delve deeper.
   <ol>
-    <li> <a href="#M1"> Setting Up and Machine Learning Basics </a>
-    <li> <a href="#M2"> More Introduction and Data Collection 1. API </a>
-    <li> <a href="#M3"> Machine Learning in Estimating Treatment Effect </a>
-    <li> <a href="#M4"> Python Programming for Machine Learning in Estimating Treatment Effect  </a>
-    <li> <a href="#M5"> Reading and Presentation 1 </a>
-    <li> <a href="#M6"> Scott's Lecture 1  </a>
-    <li> <a href="#M7"> Scott's Lecture 2  </a>
-    <li> <a href="#M8"> Scott's Lecture 3 </a>
-    <li> <a href="#M9"> Scott's Lecture 4 </a>
-    <li> <a href="#M10"> Reading and Presentation 2  </a>
-    <li> <a href="#M11"> Data Collection 2. Webscraping </a>
-    <li> <a href="#M12"> Automating Process and Data Visualization </a>
-    <li> <a href="#M13"> More Promises? Unsupurvised Learning </a>
-    <li> <a href="#M14"> Reading and Presentation 3 </a>
+    <li> <a href="#M1"> Setting Up and Machine Learning Basics </a> </li>
+    <li> <a href="#M2"> More Introduction and Data Collection 1. API </a> </li>
+    <li> <a href="#M3"> Machine Learning in Estimating Treatment Effect </a> </li>
+    <li> <a href="#M4"> Python Programming for Machine Learning in Estimating Treatment Effect  </a> </li>
+    <li> <a href="#M5"> Reading and Presentation 1 </a> </li>
+    <li> <a href="#M6"> Scott's Lecture 1  </a> </li>
+    <li> <a href="#M7"> Scott's Lecture 2  </a> </li>
+    <li> <a href="#M8"> Scott's Lecture 3 </a> </li>
+    <li> <a href="#M9"> Scott's Lecture 4 </a> </li>
+    <li> <a href="#M10"> Reading and Presentation 2  </a> </li>
+    <li> <a href="#M11"> Data Collection 2. Webscraping </a> </li>
+    <li> <a href="#M12"> Automating Process and Data Visualization </a> </li>
+    <li> <a href="#M13"> More Promises? Unsupurvised Learning </a> </li>
+    <li> <a href="#M14"> Reading and Presentation 3 </a> </li>
   </ol>
 
 ### <h2 id="M1">1. Setting Up and Machine Learning Introduction </h2>
 Econometrics recap and the gist of statistical learning and supervised/unsupervised machine learning <br>
 
-<li> Reading Susan Athey and Guido W. Imbens (2019) Machine Learning Methods That Economists Should Know About
-<li> Chapter 6 from An introduction to statistical learning with applications in Python 
-<li> News article <a href="https://time.com/6247678/openai-chatgpt-kenya-workers/"> Data labeling in supervised learning </a> 
-<a href="http://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0115.ipynb">Basic Programming Lecture Note</a> 
+<li> Reading Susan Athey and Guido W. Imbens (2019) Machine Learning Methods That Economists Should Know About </li>
+<li> Chapter 6 from An introduction to statistical learning with applications in Python </li>
+<li> News article <a href="https://time.com/6247678/openai-chatgpt-kenya-workers/"> Data labeling in supervised learning </a>
+<a href="http://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0115.ipynb">Basic Programming Lecture Note</a>  </li>
 
 ### <h2 id="M2"> More Introduction and Data Collection 1. API </h2>
 Manage covariates from US Census, UCR, Twitter, Reddit, and else <br>
 
-Chapter 7 from An introduction to statistical learning with applications in Python <br>
-<a href="http://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0115.ipynb">Lecture Note</a> <br>
-<a href="https://www.census.gov/data/developers/data-sets.html"> US Census </a> <br>
-<a href="https://www.justice.gov/developer#:~:text=The%20FBI%20Crime%20Data%20API,uses%20and%20their%20related%20entities."> FBI Crime data </a> <br>
-<a href="https://www.reddit.com/dev/api/"> Reddit </a> <br>
-<a href="https://praw.readthedocs.io/en/latest/"> Python package for Reddit </a> <br>
-<a href="https://developer.twitter.com/en/docs"> Twitter </a> <br>
-<a href="https://www.tweepy.org/"> Python package for Twitter </a> <br>
-<a href="https://jacobdkaplan.weebly.com/books.html"> Jacob Kaplan's Reservoir </a> <br>
+<li> Chapter 7 from An introduction to statistical learning with applications in Python </li>
+<li> <a href="http://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0115.ipynb">Lecture Note</a> </li>
+<li> <a href="https://www.census.gov/data/developers/data-sets.html"> US Census </a> </li>
+<li> <a href="https://www.justice.gov/developer#:~:text=The%20FBI%20Crime%20Data%20API,uses%20and%20their%20related%20entities."> FBI Crime data </a> </li>
+<li> <a href="https://www.reddit.com/dev/api/"> Reddit </a> </li>
+<li> <a href="https://praw.readthedocs.io/en/latest/"> Python package for Reddit </a> </li>
+<li> <a href="https://developer.twitter.com/en/docs"> Twitter </a> </li>
+<li> <a href="https://www.tweepy.org/"> Python package for Twitter </a> </li>
+<li> <a href="https://jacobdkaplan.weebly.com/books.html"> Jacob Kaplan's Reservoir </a> </li> 
 
 ### <h2 id="M3"> Machine Learning in Estimating Treatment Effect </h2>
 The promise of machine learning in estimating treatment effects <br>
 
-Chapter 8 from An introduction to statistical learning with applications in Python <br>
-Reference Day 1 from <a href="https://causalinf.substack.com/p/machine-learning-and-causal-inference?utm_source=post-email-title&publication_id=306886&post_id=104127552&isFreemail=false"> Dr. Brigham Frandsen's workshop </a> <br>
+<li> Chapter 8 from An introduction to statistical learning with applications in Python </li>
+<li> Reference Day 1 from <a href="https://causalinf.substack.com/p/machine-learning-and-causal-inference?utm_source=post-email-title&publication_id=306886&post_id=104127552&isFreemail=false"> Dr. Brigham Frandsen's workshop </a> </li>
 
 ### <h2 id="M4"> Python Programming for Machine Learning in Estimating Treatment Effect </h2>
 
-Chapter 10 from An introduction to statistical learning with applications in Python <br>
-Reference Day 2 from <a href="https://causalinf.substack.com/p/machine-learning-and-causal-inference?utm_source=post-email-title&publication_id=306886&post_id=104127552&isFreemail=false"> Dr. Brigham Frandsen's workshop </a> <br>
+<li> Chapter 10 from An introduction to statistical learning with applications in Python </li>
+<li> Reference Day 2 from <a href="https://causalinf.substack.com/p/machine-learning-and-causal-inference?utm_source=post-email-title&publication_id=306886&post_id=104127552&isFreemail=false"> Dr. Brigham Frandsen's workshop </a> </li>
 
 ### <h2 id="M5"> Reading and Presentation 1 </h2>
 <li> Causal Trees (From Athey and Imbens (2016))
@@ -117,8 +125,8 @@ Reference Day 2 from <a href="https://causalinf.substack.com/p/machine-learning-
 ### <h2 id="M11"> Data Collection 2. Webscraping </h2>
 Reading various information from cyberspace including news articles and create a flat data file <br>
 
-<a href="https://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0123.ipynb"> Lecture Note </a> <br>
-<a href="https://holypython.com/advanced-python-exercises/project-regular-expressions-regex/">Regular Expressions Exercise</a>
+<li> <a href="https://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0123.ipynb"> Lecture Note </a> </li>
+<li> <a href="https://holypython.com/advanced-python-exercises/project-regular-expressions-regex/">Regular Expressions Exercise</a> </li>
 
 ### <h2 id="M12"> Automating Process and Data Visualization </h2>
 For replicability and systematic management of data analysis
@@ -226,7 +234,7 @@ ODS.
 Graduate school is a context where mental health struggles can be 
 exacerbated. If you ever find yourself struggling, please do not hesitate to ask for help. If you 
 wish to seek out campus resources, here is some basic information about Monsour. 
-<a href="https://www.cuc.claremont.edu/mcaps/"> https://www.cuc.claremont.edu/mcaps/ </a>
+<a href="https://www.cuc.claremont.edu/mcaps/"> https://www.cuc.claremont.edu/mcaps/ </a> <br>
 “Monsour Counseling and Psychological Services (MCAPS) is committed to promoting 
 psychological wellness for all students served by the Claremont University Consortium. Our 
 well-trained team of psychologists, psychiatrists, and post-doctoral and intern therapists offer 
