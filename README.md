@@ -1,7 +1,6 @@
-# CGU School of Social Science, Policy & Evaluation CGU 
-# Department of Economic Sciences 
-# Causal Modeling, Big Data and Machine Learning
-# Fall 2023 <br>
+<b> CGU School of Social Science, Policy & Evaluation CGU  <br>
+Department of Economic Sciences <br>
+Causal Modeling, Big Data and Machine Learning <br> Fall 2023 <br>
 ## Contact Information
 ## Course Instructor: Greg DeAngelo 
 Office: <br>
@@ -144,7 +143,7 @@ are at the professor’s discretion.
     <th> Learning Outcome </th>
   </tr>
   <tr>
-    <td> A/td>
+    <td> A </td>
     <td>4.0</td>
     <td> Complete mastery of course material and additional 
 insight beyond course material (Overall grade percent 
