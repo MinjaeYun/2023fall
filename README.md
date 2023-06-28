@@ -69,10 +69,10 @@ For each week, a set of required problem sets are assigned. Supplementary readin
 ### <h2 id="M1">1. Setting Up and Machine Learning Introduction </h2>
 Econometrics recap and the gist of statistical learning and supervised/unsupervised machine learning <br>
 
-Reading Susan Athey and Guido W. Imbens (2019) Machine Learning Methods That Economists Should Know About <br>
-Chapter 6 from An introduction to statistical learning with applications in Python <br>
-News article <a href="https://time.com/6247678/openai-chatgpt-kenya-workers/"> Data labeling in supervised learning </a> <br>
-<a href="http://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0115.ipynb">Basic Programming Lecture Note</a> <br>
+<li> Reading Susan Athey and Guido W. Imbens (2019) Machine Learning Methods That Economists Should Know About
+<li> Chapter 6 from An introduction to statistical learning with applications in Python 
+<li> News article <a href="https://time.com/6247678/openai-chatgpt-kenya-workers/"> Data labeling in supervised learning </a> 
+<a href="http://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0115.ipynb">Basic Programming Lecture Note</a> 
 
 ### <h2 id="M2"> More Introduction and Data Collection 1. API </h2>
 Manage covariates from US Census, UCR, Twitter, Reddit, and else <br>
