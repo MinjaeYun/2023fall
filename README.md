@@ -95,12 +95,12 @@ Manage covariates from US Census, UCR, Twitter, Reddit, and else <br>
 The promise of machine learning in estimating treatment effects <br>
 
 <li> Chapter 8 from An introduction to statistical learning with applications in Python </li>
-<li> Reference Day 1 from <a href="https://causalinf.substack.com/p/machine-learning-and-causal-inference?utm_source=post-email-title&publication_id=306886&post_id=104127552&isFreemail=false"> Dr. Brigham Frandsen's workshop </a> </li>
+<li> Reference Day 1 from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 
 ### <h2 id="M4"> Python Programming for Machine Learning in Estimating Treatment Effect </h2>
 
 <li> Chapter 10 from An introduction to statistical learning with applications in Python </li>
-<li> Reference Day 2 from <a href="https://causalinf.substack.com/p/machine-learning-and-causal-inference?utm_source=post-email-title&publication_id=306886&post_id=104127552&isFreemail=false"> Dr. Brigham Frandsen's workshop </a> </li>
+<li> Reference Day 2 from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 
 ### <h2 id="M5"> Lecture on Reading 1 </h2>
 <li> Causal Trees (From Athey and Imbens (2016))
