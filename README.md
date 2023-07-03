@@ -103,7 +103,7 @@ The promise of machine learning in estimating treatment effects <br>
 <li> Reference Day 2 from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 
 ### <h2 id="M5"> Lecture on Reading 1 </h2>
-<li> Reading: Athey, Susan, and Guido Imbens (2016) Reading Recursive partitioning for heterogeneous causal effects
+<li> Reading: Athey, Susan, and Guido Imbens (2016) Reading Recursive Partitioning for Heterogeneous Causal Effects
 <li> Reading: Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Iván Fernández-Val (2020) Generic Machine Learning Inference on Heterogenous Treatment Effects in Randomized Experiments, with Application to Immunization in India
 
 <li> <a href="https://nbviewer.org/github/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf"> Lecture Note </a>
