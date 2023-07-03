@@ -21,7 +21,7 @@ E-mail: anuar.assamidanov@cgu.edu <br>
 
 ## Course Schedule 
 Semester start/end dates: 8/28/2023 – 12/16/2023 <br>
-Meeting day, time:  <br>
+Meeting day, time: Tuesday, 10:00 AM - 11:50 AM PST  <br>
 Course Location: Online <br> <br>
 
 ## Course Description 
