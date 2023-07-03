@@ -126,7 +126,7 @@ Collecting various information from cyberspace including news articles and creat
 <li> <a href="https://holypython.com/advanced-python-exercises/project-regular-expressions-regex/">Regular Expressions Exercise</a> </li>
 
 ### <h2 id="M12">Week 12. Automating Process and Data Visualization </h2>
-For replicability and systematic management of data analysis
+For reproducibility and systematic management of data analysis
 
 ### <h2 id="M13">Week 13. More Promises? Unsupervised Learning </h2>
 Chapter 12 from An introduction to statistical learning with applications in Python <br>
