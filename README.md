@@ -10,13 +10,14 @@ Office: <br>
 E-mail: gregory.deangelo@cgu.edu <br>
 Office Hours: <br>
 
-## Contact Information 
 ## Course Instructor: Scott Cunningham 
 E-mail: scunning@gmail.com <br>
 
-## Contact Information
 ## Course Instructor: Minjae Yun
-E-mail: minjae.yun@cgu.edu <br> <br>
+E-mail: minjae.yun@cgu.edu <br>
+
+## Teaching Assistant: Anuar Assamidanov
+E-mail: anuar.assamidanov@cgu.edu <br> 
 
 ## Course Schedule 
 Semester start/end dates: 8/28/2023 – 12/16/2023 <br>
@@ -57,16 +58,16 @@ For each week, a set of required problem sets are assigned. Supplementary readin
     <li> <a href="#M2"> More Introduction and Data Collection 1. API </a> </li>
     <li> <a href="#M3"> Machine Learning in Estimating Treatment Effect </a> </li>
     <li> <a href="#M4"> Python Programming for Machine Learning in Estimating Treatment Effect  </a> </li>
-    <li> <a href="#M5"> Reading and Presentation 1 </a> </li>
+    <li> <a href="#M5"> Lecture on Reading 1 </a> </li>
     <li> <a href="#M6"> Scott's Lecture 1  </a> </li>
     <li> <a href="#M7"> Scott's Lecture 2  </a> </li>
     <li> <a href="#M8"> Scott's Lecture 3 </a> </li>
     <li> <a href="#M9"> Scott's Lecture 4 </a> </li>
-    <li> <a href="#M10"> Reading and Presentation 2  </a> </li>
+    <li> <a href="#M10"> Lecture on Reading 2  </a> </li>
     <li> <a href="#M11"> Data Collection 2. Webscraping </a> </li>
     <li> <a href="#M12"> Automating Process and Data Visualization </a> </li>
     <li> <a href="#M13"> More Promises? Unsupurvised Learning </a> </li>
-    <li> <a href="#M14"> Reading and Presentation 3 </a> </li>
+    <li> <a href="#M14"> Lecture on Reading 3 </a> </li>
   </ol>
 
 ### <h2 id="M1">1. Setting Up and Machine Learning Introduction </h2>
@@ -74,8 +75,8 @@ Econometrics recap and the gist of statistical learning and supervised/unsupervi
 
 <li> Reading Susan Athey and Guido W. Imbens (2019) Machine Learning Methods That Economists Should Know About </li>
 <li> Chapter 6 from An introduction to statistical learning with applications in Python </li>
-<li> News article <a href="https://time.com/6247678/openai-chatgpt-kenya-workers/"> Data labeling in supervised learning </a>
-<a href="http://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0115.ipynb">Basic Programming Lecture Note</a>  </li>
+<li> News article <a href="https://time.com/6247678/openai-chatgpt-kenya-workers/"> Data labeling in supervised learning </a> </li>
+<li> </li><a href="http://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0115.ipynb">Basic Programming Lecture Note</a>  </li>
 
 ### <h2 id="M2"> More Introduction and Data Collection 1. API </h2>
 Manage covariates from US Census, UCR, Twitter, Reddit, and else <br>
@@ -101,7 +102,7 @@ The promise of machine learning in estimating treatment effects <br>
 <li> Chapter 10 from An introduction to statistical learning with applications in Python </li>
 <li> Reference Day 2 from <a href="https://causalinf.substack.com/p/machine-learning-and-causal-inference?utm_source=post-email-title&publication_id=306886&post_id=104127552&isFreemail=false"> Dr. Brigham Frandsen's workshop </a> </li>
 
-### <h2 id="M5"> Reading and Presentation 1 </h2>
+### <h2 id="M5"> Lecture on Reading 1 </h2>
 <li> Causal Trees (From Athey and Imbens (2016))
 <li> GATES and CLAN from Chernozhukov et al. (2020)
 <li> <a href="https://nbviewer.org/github/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf"> Lecture Note </a>
@@ -112,7 +113,7 @@ The promise of machine learning in estimating treatment effects <br>
 ### <h2 id="M8"> Scott's Lecture 3 </h2>
 ### <h2 id="M9"> Scott's Lecture 4 </h2>
 
-### <h2 id="M10"> Reading and Presentation 2 </h2>
+### <h2 id="M10"> Lecture on Reading 2 </h2>
 <li> Synthetic Difference in Differences by Dmitry Arkhangelsky, Susan Athey, David A. Hirshberg, Guido Imbens, and Stefan Wager 
 <li> <a href="https://github.com/synth-inference/synthdid"> R package: synthdid </a>
 <li> Data: Castle doctrine
@@ -129,7 +130,7 @@ For replicability and systematic management of data analysis
 ### <h2 id="M13"> More Promises? Unsupervised Learning </h2>
 Chapter 12 from An introduction to statistical learning with applications in Python <br>
 
-### <h2 id="M14"> Reading and Presentation 3 </h2>
+### <h2 id="M14"> Lecture on Reading 3 </h2>
 <li> Reading: Matrix Completion Methods for Causal Panel Data Models by Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi
 <li> <a href="https://github.com/susanathey/MCPanel/tree/master/tests/examples_from_paper"> Paper example </a> 
 <li> R Package: gsynth and MCPanel 
