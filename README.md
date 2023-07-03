@@ -58,16 +58,16 @@ For each week, a set of required problem sets are assigned. Supplementary readin
     <li> <a href="#M2"> More Introduction and Data Collection 1. API </a> </li>
     <li> <a href="#M3"> Machine Learning in Estimating Treatment Effect </a> </li>
     <li> <a href="#M4"> Python Programming for Machine Learning in Estimating Treatment Effect  </a> </li>
-    <li> <a href="#M5"> Lecture on Reading 1 </a> </li>
+    <li> <a href="#M5"> Lecture on Reading 1 Heterogenous Treatment Effect </a> </li>
     <li> <a href="#M6"> Scott's Lecture 1  </a> </li>
     <li> <a href="#M7"> Scott's Lecture 2  </a> </li>
     <li> <a href="#M8"> Scott's Lecture 3 </a> </li>
     <li> <a href="#M9"> Scott's Lecture 4 </a> </li>
-    <li> <a href="#M10"> Lecture on Reading 2  </a> </li>
+    <li> <a href="#M10"> Lecture on Reading 2 Synthetic Diff-in-Diffs  </a> </li>
     <li> <a href="#M11"> Data Collection 2. Webscraping </a> </li>
     <li> <a href="#M12"> Automating Process and Data Visualization </a> </li>
     <li> <a href="#M13"> More Promises? Unsupurvised Learning </a> </li>
-    <li> <a href="#M14"> Lecture on Reading 3 </a> </li>
+    <li> <a href="#M14"> Lecture on Reading 3 Matrix Completion </a> </li>
   </ol>
 
 ### <h2 id="M1">1. Setting Up and Machine Learning Introduction </h2>
@@ -102,7 +102,7 @@ The promise of machine learning in estimating treatment effects <br>
 <li> Chapter 10 from An introduction to statistical learning with applications in Python </li>
 <li> Reference Day 2 from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 
-### <h2 id="M5"> Lecture on Reading 1 </h2>
+### <h2 id="M5"> Lecture on Reading 1 Heterogenous Treatment Effect </h2>
 <li> Reading: Athey, Susan, and Guido Imbens (2016) Reading Recursive Partitioning for Heterogeneous Causal Effects
 <li> Reading: Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Iván Fernández-Val (2020) Generic Machine Learning Inference on Heterogenous Treatment Effects in Randomized Experiments, with Application to Immunization in India
 
@@ -114,7 +114,7 @@ The promise of machine learning in estimating treatment effects <br>
 ### <h2 id="M8"> Scott's Lecture 3 </h2>
 ### <h2 id="M9"> Scott's Lecture 4 </h2>
 
-### <h2 id="M10"> Lecture on Reading 2 </h2>
+### <h2 id="M10"> Lecture on Reading 2 Synthetic Diff-in-Diffs </h2>
 <li> Reading: Arkhangelsky, Dmitry, Susan Athey, David A. Hirshberg, Guido Imbens, and Stefan Wager (2021) Synthetic Difference in Differences
 <li> <a href="https://github.com/synth-inference/synthdid"> R package: synthdid </a>
 <li> Data: Castle doctrine </li>
@@ -131,7 +131,7 @@ For replicability and systematic management of data analysis
 ### <h2 id="M13"> More Promises? Unsupervised Learning </h2>
 Chapter 12 from An introduction to statistical learning with applications in Python <br>
 
-### <h2 id="M14"> Lecture on Reading 3 </h2>
+### <h2 id="M14"> Lecture on Reading 3 Matrix Completion </h2>
 <li> Reading: Athey, Susan, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi (2021) Matrix Completion Methods for Causal Panel Data Models 
 <li> <a href="https://github.com/susanathey/MCPanel/tree/master/tests/examples_from_paper"> Paper example </a> 
 <li> R Package: gsynth and MCPanel 
