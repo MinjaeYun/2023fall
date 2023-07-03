@@ -106,7 +106,7 @@ The promise of machine learning in estimating treatment effects <br>
 <li> Causal Trees (From Athey and Imbens (2016))
 <li> GATES and CLAN from Chernozhukov et al. (2020)
 <li> <a href="https://nbviewer.org/github/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf"> Lecture Note </a>
-<li> <a href="https://econml.azurewebsites.net/spec/spec.html"> Python package </a>
+<li> <a href="https://econml.azurewebsites.net/spec/spec.html"> Python package </a> </li>
 
 ### <h2 id="M6"> Scott's Lecture 1 </h2>
 ### <h2 id="M7"> Scott's Lecture 2 </h2>
@@ -116,7 +116,7 @@ The promise of machine learning in estimating treatment effects <br>
 ### <h2 id="M10"> Lecture on Reading 2 </h2>
 <li> Synthetic Difference in Differences by Dmitry Arkhangelsky, Susan Athey, David A. Hirshberg, Guido Imbens, and Stefan Wager 
 <li> <a href="https://github.com/synth-inference/synthdid"> R package: synthdid </a>
-<li> Data: Castle doctrine
+<li> Data: Castle doctrine </li>
 
 ### <h2 id="M11"> Data Collection 2. Webscraping </h2>
 Reading various information from cyberspace including news articles and create a flat data file <br>
@@ -134,7 +134,7 @@ Chapter 12 from An introduction to statistical learning with applications in Pyt
 <li> Reading: Matrix Completion Methods for Causal Panel Data Models by Susan Athey, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi
 <li> <a href="https://github.com/susanathey/MCPanel/tree/master/tests/examples_from_paper"> Paper example </a> 
 <li> R Package: gsynth and MCPanel 
-<li> Data: California smoking dat 
+<li> Data: California smoking dat  </li>
 
 ## Grading
 Your grade will be calculated using the following scale. Grades with plus or minus designations 
