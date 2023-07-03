@@ -39,7 +39,7 @@ Econometrics, probability and statistics, basic programming <br> <br>
 ## Student Learning Outcomes 
 By the end of this course, students will be able to:
 <ol>
-<li> Secure the system and replicability of data analysis through programming </li>
+<li> Secure the system and reproducibility of data analysis through programming </li>
 <li> Implement machine learning algorithms </li>
 <li> Develop a causal identification strategy </li>
 <li> Identify the basic assumptions of causal inference as applied to machine learning </li>
@@ -70,7 +70,7 @@ For each week, a set of required problem sets are assigned. Supplementary readin
     <li> <a href="#M14"> Lecture on Reading 3 Matrix Completion </a> </li>
   </ol>
 
-### <h2 id="M1">1. Setting Up and Machine Learning Introduction </h2>
+### <h2 id="M1">Week 1. Setting Up and Machine Learning Introduction </h2>
 Econometrics recap and the gist of statistical learning and supervised/unsupervised machine learning <br>
 
 <li> Reading: Athey, Susan and Guido Imbens (2019) Machine Learning Methods That Economists Should Know About </li>
@@ -78,7 +78,7 @@ Econometrics recap and the gist of statistical learning and supervised/unsupervi
 <li> News article <a href="https://time.com/6247678/openai-chatgpt-kenya-workers/"> Data labeling in supervised learning </a> </li>
 <li> <a href="http://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0115.ipynb">Basic Programming Lecture Note</a>  </li>
 
-### <h2 id="M2"> More Introduction and Data Collection 1. API </h2>
+### <h2 id="M2">Week 2. More Introduction and Data Collection 1. API </h2>
 Manage covariates from US Census, UCR, Twitter, Reddit, and else <br>
 
 <li> Chapter 7 from An introduction to statistical learning with applications in Python </li>
@@ -91,47 +91,47 @@ Manage covariates from US Census, UCR, Twitter, Reddit, and else <br>
 <li> <a href="https://www.tweepy.org/"> Python package for Twitter </a> </li>
 <li> <a href="https://jacobdkaplan.weebly.com/books.html"> Jacob Kaplan's Reservoir </a> </li> 
 
-### <h2 id="M3"> Machine Learning in Estimating Treatment Effect </h2>
+### <h2 id="M3">Week 3. Machine Learning in Estimating Treatment Effect </h2>
 The promise of machine learning in estimating treatment effects <br>
 
 <li> Chapter 8 from An introduction to statistical learning with applications in Python </li>
 <li> Reference Day 1 from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 
-### <h2 id="M4"> Python Programming for Machine Learning in Estimating Treatment Effect </h2>
+### <h2 id="M4">Week 4. Python Programming for Machine Learning in Estimating Treatment Effect </h2>
 
 <li> Chapter 10 from An introduction to statistical learning with applications in Python </li>
 <li> Reference Day 2 from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 
-### <h2 id="M5"> Lecture on Reading 1 Heterogenous Treatment Effect </h2>
+### <h2 id="M5">Week 5. Lecture on Reading 1 Heterogenous Treatment Effect </h2>
 <li> Reading: Athey, Susan, and Guido Imbens (2016) Reading Recursive Partitioning for Heterogeneous Causal Effects
 <li> Reading: Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Iván Fernández-Val (2020) Generic Machine Learning Inference on Heterogenous Treatment Effects in Randomized Experiments, with Application to Immunization in India
 
 <li> <a href="https://nbviewer.org/github/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf"> Lecture Note </a>
 <li> <a href="https://econml.azurewebsites.net/spec/spec.html"> Python package </a> </li>
 
-### <h2 id="M6"> Scott's Lecture 1 </h2>
-### <h2 id="M7"> Scott's Lecture 2 </h2>
-### <h2 id="M8"> Scott's Lecture 3 </h2>
-### <h2 id="M9"> Scott's Lecture 4 </h2>
+### <h2 id="M6">Week 6. Scott's Lecture 1 </h2>
+### <h2 id="M7">Week 7. Scott's Lecture 2 </h2>
+### <h2 id="M8">Week 8. Scott's Lecture 3 </h2>
+### <h2 id="M9">Week 9. Scott's Lecture 4 </h2>
 
-### <h2 id="M10"> Lecture on Reading 2 Synthetic Diff-in-Diffs </h2>
+### <h2 id="M10">Week 10. Lecture on Reading 2 Synthetic Diff-in-Diffs </h2>
 <li> Reading: Arkhangelsky, Dmitry, Susan Athey, David A. Hirshberg, Guido Imbens, and Stefan Wager (2021) Synthetic Difference in Differences
 <li> <a href="https://github.com/synth-inference/synthdid"> R package: synthdid </a>
 <li> Data: Castle doctrine </li>
 
-### <h2 id="M11"> Data Collection 2. Webscraping </h2>
+### <h2 id="M11">Week 11. Data Collection 2. Webscraping </h2>
 Collecting various information from cyberspace including news articles and create a flat data file <br>
 
 <li> <a href="https://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0123.ipynb"> Lecture Note </a> </li>
 <li> <a href="https://holypython.com/advanced-python-exercises/project-regular-expressions-regex/">Regular Expressions Exercise</a> </li>
 
-### <h2 id="M12"> Automating Process and Data Visualization </h2>
+### <h2 id="M12">Week 12. Automating Process and Data Visualization </h2>
 For replicability and systematic management of data analysis
 
-### <h2 id="M13"> More Promises? Unsupervised Learning </h2>
+### <h2 id="M13">Week 13. More Promises? Unsupervised Learning </h2>
 Chapter 12 from An introduction to statistical learning with applications in Python <br>
 
-### <h2 id="M14"> Lecture on Reading 3 Matrix Completion </h2>
+### <h2 id="M14">Week 14. Lecture on Reading 3 Matrix Completion </h2>
 <li> Reading: Athey, Susan, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi (2021) Matrix Completion Methods for Causal Panel Data Models 
 <li> <a href="https://github.com/susanathey/MCPanel/tree/master/tests/examples_from_paper"> Paper example </a> 
 <li> R Package: gsynth and MCPanel 
