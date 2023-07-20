@@ -46,9 +46,9 @@ By the end of this course, students will be able to:
 </ol>
 
 ## Texts and Journal References 
-Required: James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. "An Introduction to Statistical Learning with Applications in Python." New York: Springer, 2023. (Website: https://www.statlearning.com) <br>
-Optional: Matheus Facure. "Causal Inference in Python: Applying Causal Inference in the Tech Industry." 1st Edition. O'Reilly Media, 2023.<br>
-Optional: Sutton, Richard S., and Andrew G. Barto. "Reinforcement Learning: An Introduction." Second Edition. MIT Press, Cambridge, MA, 2018. (http://incompleteideas.net/book/the-book-2nd.html) <br> <br>
+<li> Required: James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. "An Introduction to Statistical Learning with Applications in Python." New York: Springer, 2023. (Website: https://www.statlearning.com) </li>
+<li> Optional: Matheus Facure. "Causal Inference in Python: Applying Causal Inference in the Tech Industry." 1st Edition. O'Reilly Media, 2023. </li>
+<li> Optional: Sutton, Richard S., and Andrew G. Barto. "Reinforcement Learning: An Introduction." Second Edition. MIT Press, Cambridge, MA, 2018. (http://incompleteideas.net/book/the-book-2nd.html) </li>
 
 ## Modules
   
