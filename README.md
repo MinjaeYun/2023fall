@@ -46,11 +46,9 @@ By the end of this course, students will be able to:
 </ol>
 
 ## Texts and Journal References 
-Required: Provided by faculty <br>
-Required: James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. An introduction 
-to statistical learning with applications in Python. New York: springer, 2023. (https://www.statlearning.com)  <br>
-Optional: Matheus Facure. Causal Inference in Python: Applying Causal Inference in the Tech Industry 1st Edition.  O'Reilly Media, 2023. <br>
-Optional: Sutton, Richard S. and Andrew G. Barto. Reinforcement Learning: An Introduction, Second Edition. MIT Press, Cambridge, MA, 2018 (http://incompleteideas.net/book/the-book-2nd.html) <br> <br>
+Required: James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. "An Introduction to Statistical Learning with Applications in Python." New York: Springer, 2023. (Website: https://www.statlearning.com) <br>
+Optional: Matheus Facure. "Causal Inference in Python: Applying Causal Inference in the Tech Industry." 1st Edition. O'Reilly Media, 2023.<br>
+Optional: Sutton, Richard S., and Andrew G. Barto. "Reinforcement Learning: An Introduction." Second Edition. MIT Press, Cambridge, MA, 2018. (http://incompleteideas.net/book/the-book-2nd.html) <br> <br>
 
 ## Modules
   
@@ -73,7 +71,7 @@ For each week, a set of required problem sets are assigned. Supplementary readin
   </ol>
 *Subject to changes <br>
 
-### <h2 id="#M1">Week 1. Setting Up and Machine Learning Introduction </h2>
+### <h2 id="M1">Week 1. Setting Up and Machine Learning Introduction </h2>
 Econometrics recap and the gist of statistical learning and supervised/unsupervised machine learning <br>
 
 <li> Reading: Athey, Susan and Guido Imbens (2019) Machine Learning Methods That Economists Should Know About </li>
