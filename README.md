@@ -48,29 +48,32 @@ By the end of this course, students will be able to:
 ## Texts and Journal References 
 Required: Provided by faculty <br>
 Required: James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. An introduction 
-to statistical learning with applications in Python. New York: springer, forthcoming. (https://www.statlearning.com)  <br> <br>
+to statistical learning with applications in Python. New York: springer, 2023. (https://www.statlearning.com)  <br>
+Optional: Matheus Facure. Causal Inference in Python: Applying Causal Inference in the Tech Industry 1st Edition.  O'Reilly Media, 2023. <br>
+Optional: Sutton, Richard S. and Andrew G. Barto. Reinforcement Learning: An Introduction, Second Edition. MIT Press, Cambridge, MA, 2018 (http://incompleteideas.net/book/the-book-2nd.html) <br> <br>
 
 ## Modules
   
 For each week, a set of required problem sets are assigned. Supplementary readings are also provided for those who wish to delve deeper.
   <ol>
     <li> <a href="#M1"> Setting Up and Machine Learning Basics </a> </li>
-    <li> <a href="#M2"> More Introduction and Data Collection 1. API </a> </li>
-    <li> <a href="#M3"> Machine Learning in Estimating Treatment Effect </a> </li>
+    <li> <a href="#M2"> Data Collection 1. API </a> </li>
+    <li> <a href="#M3"> Estimating Treatment Effect </a> </li>
     <li> <a href="#M4"> Python Programming for Machine Learning in Estimating Treatment Effect  </a> </li>
-    <li> <a href="#M5"> Lecture on Reading 1 Heterogenous Treatment Effect </a> </li>
-    <li> <a href="#M6"> Scott's Lecture 1  </a> </li>
-    <li> <a href="#M7"> Scott's Lecture 2  </a> </li>
-    <li> <a href="#M8"> Scott's Lecture 3 </a> </li>
-    <li> <a href="#M9"> Scott's Lecture 4 </a> </li>
-    <li> <a href="#M10"> Lecture on Reading 2 Synthetic Diff-in-Diffs  </a> </li>
-    <li> <a href="#M11"> Data Collection 2. Webscraping </a> </li>
+    <li> <a href="#M5"> Estimating Heterogenous Treatment Effect </a> </li>
+    <li> <a href="#M6"> Double/Debiased Machine Learning*  </a> </li>
+    <li> <a href="#M7"> Causal Forests*  </a> </li>
+    <li> <a href="#M8"> Multi-armed Bandits* </a> </li>
+    <li> <a href="#M9"> IV Lasso* </a> </li>
+    <li> <a href="#M10"> Synthetic Diff-in-Diffs  </a> </li>
+    <li> <a href="#M11"> Data Collection 2. Web Scraping </a> </li>
     <li> <a href="#M12"> Automating Process and Data Visualization </a> </li>
-    <li> <a href="#M13"> More Promises? Unsupurvised Learning </a> </li>
-    <li> <a href="#M14"> Lecture on Reading 3 Matrix Completion </a> </li>
+    <li> <a href="#M13"> Unsupervised Learning </a> </li>
+    <li> <a href="#M14"> Matrix Completion </a> </li>
   </ol>
+*Subject to changes <br>
 
-### <h2 id="M1">Week 1. Setting Up and Machine Learning Introduction </h2>
+### <h2 id="#M1">Week 1. Setting Up and Machine Learning Introduction </h2>
 Econometrics recap and the gist of statistical learning and supervised/unsupervised machine learning <br>
 
 <li> Reading: Athey, Susan and Guido Imbens (2019) Machine Learning Methods That Economists Should Know About </li>
@@ -94,46 +97,57 @@ Manage covariates from US Census, UCR, Twitter, Reddit, and else <br>
 ### <h2 id="M3">Week 3. Machine Learning in Estimating Treatment Effect </h2>
 The promise of machine learning in estimating treatment effects <br>
 
+<li> Lecture Notes from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 <li> Chapter 8 from An introduction to statistical learning with applications in Python </li>
-<li> Reference Day 1 from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 
 ### <h2 id="M4">Week 4. Python Programming for Machine Learning in Estimating Treatment Effect </h2>
 
+<li> Lecture Notes from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 <li> Chapter 10 from An introduction to statistical learning with applications in Python </li>
-<li> Reference Day 2 from <a href="https://github.com/Mixtape-Sessions/Machine-Learning"> Dr. Brigham Frandsen's workshop </a> </li>
 
-### <h2 id="M5">Week 5. Lecture on Reading 1 Heterogenous Treatment Effect </h2>
+### <h2 id="M5">Week 5. Estimating Heterogenous Treatment Effect </h2>
+<li> Lecture Notes from <a href="https://github.com/Mixtape-Sessions/Heterogeneous-Effects/"> Dr. Brigham Frandsen's workshop </a>
 <li> Reading: Athey, Susan, and Guido Imbens (2016) Reading Recursive Partitioning for Heterogeneous Causal Effects
 <li> Reading: Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Iván Fernández-Val (2020) Generic Machine Learning Inference on Heterogenous Treatment Effects in Randomized Experiments, with Application to Immunization in India
 
-<li> <a href="https://nbviewer.org/github/paulgp/applied-methods-phd/blob/main/lectures/24_machine_learning_2.pdf"> Lecture Note </a>
-<li> <a href="https://econml.azurewebsites.net/spec/spec.html"> Python package </a> </li>
+### <h2 id="M6">Week 6. Double/Debiased Machine Learning </h2>
+Lecture by Dr. Scott Cunningham
+<li> Chapter 4 from Causal Inference in Python </li>
+<li> Chapter 22 from Causal Inference for The Brave and True </li>
 
-### <h2 id="M6">Week 6. Scott's Lecture 1 </h2>
-### <h2 id="M7">Week 7. Scott's Lecture 2 </h2>
-### <h2 id="M8">Week 8. Scott's Lecture 3 </h2>
-### <h2 id="M9">Week 9. Scott's Lecture 4 </h2>
+### <h2 id="M7">Week 7. Causal Forests </h2>
+Lecture by Dr. Scott Cunningham
+<li> Reading: Athey, Susan, and Guido Imbens (2016) The Econometrics of Randomized Experiments </li>
 
-### <h2 id="M10">Week 10. Lecture on Reading 2 Synthetic Diff-in-Diffs </h2>
+### <h2 id="M8">Week 8. Multi-armed Bandits </h2>
+Lecture by Dr. Scott Cunningham
+<li> Reference: Chapter 2 from Reinforcement Learning: An Introduction.</li>
+
+### <h2 id="M9">Week 9. IV Lasso </h2>
+Lecture by Dr. Scott Cunningham
+<li> Reading: Belloni, Alexandre, Victor Chernozhukov, Christian Hansen (2011) LASSO Methods for Gaussian Instrumental Variables Models </li>
+
+### <h2 id="M10">Week 10. Synthetic Diff-in-Diffs </h2>
 <li> Reading: Arkhangelsky, Dmitry, Susan Athey, David A. Hirshberg, Guido Imbens, and Stefan Wager (2021) Synthetic Difference in Differences
-<li> <a href="https://github.com/synth-inference/synthdid"> R package: synthdid </a>
+<li> <a href="https://github.com/MasaAsami/pysynthdid"> Python package: pysynthdid </a>
 <li> Data: Castle doctrine </li>
 
-### <h2 id="M11">Week 11. Data Collection 2. Webscraping </h2>
+### <h2 id="M11">Week 11. Webscraping </h2>
 Collecting various information from cyberspace including news articles and create a flat data file <br>
 
 <li> <a href="https://github.com/MinjaeYun/practice/blob/master/web_scraping_for_ss_0123.ipynb"> Lecture Note </a> </li>
-<li> <a href="https://holypython.com/advanced-python-exercises/project-regular-expressions-regex/">Regular Expressions Exercise</a> </li>
+</li>
 
 ### <h2 id="M12">Week 12. Automating Process and Data Visualization </h2>
 For reproducibility and systematic management of data analysis
 
-### <h2 id="M13">Week 13. More Promises? Unsupervised Learning </h2>
+### <h2 id="M13">Week 13. Unsupervised Learning </h2>
 Chapter 12 from An introduction to statistical learning with applications in Python <br>
 
-### <h2 id="M14">Week 14. Lecture on Reading 3 Matrix Completion </h2>
+### <h2 id="M14">Week 14. Matrix Completion </h2>
 <li> Reading: Athey, Susan, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi (2021) Matrix Completion Methods for Causal Panel Data Models 
 <li> <a href="https://github.com/susanathey/MCPanel/tree/master/tests/examples_from_paper"> Paper example </a> 
+<li> <a href="https://sidravi1.github.io/blog/2018/12/02/athey-s-matrix-completion-methods"> Python Coding </li>
 <li> R Package: gsynth and MCPanel 
 <li> Data: California smoking dat  </li>
 
