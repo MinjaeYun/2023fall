@@ -46,9 +46,9 @@ By the end of this course, students will be able to:
 </ol>
 
 ## Texts and Journal References 
-<li> Required: James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. "An Introduction to Statistical Learning with Applications in Python." New York: Springer, 2023. (Website: https://www.statlearning.com) </li>
+<li> Required: James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani. "An Introduction to Statistical Learning with Applications in Python." New York: Springer, 2023. (Free PDF: https://www.statlearning.com) </li>
 <li> Optional: Matheus Facure. "Causal Inference in Python: Applying Causal Inference in the Tech Industry." 1st Edition. O'Reilly Media, 2023. </li>
-<li> Optional: Sutton, Richard S., and Andrew G. Barto. "Reinforcement Learning: An Introduction." Second Edition. MIT Press, Cambridge, MA, 2018. (http://incompleteideas.net/book/the-book-2nd.html) </li>
+<li> Optional: Sutton, Richard S., and Andrew G. Barto. "Reinforcement Learning: An Introduction." Second Edition. MIT Press, Cambridge, MA, 2018. (Free PDF: http://incompleteideas.net/book/the-book-2nd.html) </li>
 
 ## Modules
   
@@ -140,7 +140,8 @@ Collecting various information from cyberspace including news articles and creat
 For reproducibility and systematic management of data analysis
 
 ### <h2 id="M13">Week 13. Introduction to Unsupervised Learning </h2>
-Chapter 12 from An introduction to statistical learning with applications in Python <br>
+<li> Chapter 12 from An introduction to statistical learning with applications in Python </li>
+<li> Ludwig, Jens and Mullainathan, Sendhil, Algorithmic Behavioral Science: Machine Learning as a Tool for Scientific Discovery (July 15, 2022). Chicago Booth Research Paper No. 22-15, Available at SSRN: https://ssrn.com/abstract=4164272 or http://dx.doi.org/10.2139/ssrn.4164272 </li>
 
 ### <h2 id="M14">Week 14. Matrix Completion Techniques for "Missing" Data </h2>
 <li> Reading: Athey, Susan, Mohsen Bayati, Nikolay Doudchenko, Guido Imbens, and Khashayar Khosravi (2021) Matrix Completion Methods for Causal Panel Data Models 
