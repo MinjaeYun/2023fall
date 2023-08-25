@@ -77,7 +77,7 @@ Econometrics recap and the gist of statistical learning and supervised/unsupervi
 <li> Reading: Athey, Susan and Guido Imbens (2019) Machine Learning Methods That Economists Should Know About </li>
 <li> Chapter 6 from An introduction to statistical learning with applications in Python </li>
 <li> News article <a href="https://time.com/6247678/openai-chatgpt-kenya-workers/"> Data labeling in supervised learning </a> </li>
-<li> <a href="https://drive.google.com/file/d/1LYCFnXiy3K2VdChDdplpSqyKtUDVooFW/view?usp=drive_link">Lecture Note</a>  </li>
+<li> <a href="https://github.com/MinjaeYun/2023fall/blob/main/lectures/Lecture%20Note%20Week%201.ipynb">Lecture Note</a>  </li>
 
 ### <h2 id="M2">Week 2. Data Collection 1: Working with APIs </h2>
 Manage covariates from US Census, UCR, Twitter, Reddit, and else <br>
@@ -221,16 +221,10 @@ the Program. Additional information on CGU academic honesty is available on the 
 Services webpage. <a href="https://cgu.policystat.com/policy/2194316/latest/"> https://cgu.policystat.com/policy/2194316/latest/</a>
 
 ## Instructor Feedback and Communication
-The best way to get in touch with me is ___. I will respond to email/voice messages within two 
+The best way to get in touch with me is by email. I will respond to email/voice messages within two 
 business days.
 
 ## Expectations and Logistics
-This section can include guidance about completing readings before class, the preferred method 
-of submitting a paper or assignment (e.g., hard copy, email, Sakai/Canvas, Dropbox), the 
-preferred format, and the amount of time it will take to receive feedback on assignments. If you 
-intend to use Sakai or other open source applications, this can be noted here. If discussion 
-boards are to be included, a brief statement on netiquette, expected frequency of student 
-postings, and the extent that the faculty or teaching assistant will participate should be noted.
 
 ## Accommodations for Students with Disabilities: 
 If you would like to request academic 
