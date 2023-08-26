@@ -110,8 +110,8 @@ The promise of machine learning in estimating treatment effects <br>
 
 ### <h2 id="M6">Week 6. Double/Debiased Machine Learning (DML) </h2>
 Lecture by Dr. Scott Cunningham
-<li> Chapter 4 from Causal Inference in Python </li>
 <li> Chapter 22 from Causal Inference for The Brave and True </li>
+<li> Optional Reading: Chapter 4 from Causal Inference in Python </li>
 
 ### <h2 id="M7">Week 7. Introduction to Causal Forests </h2>
 Lecture by Dr. Scott Cunningham
